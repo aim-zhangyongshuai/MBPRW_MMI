@@ -1,0 +1,9 @@
+benztropine-mesylate	C0035228	CHRM1 -> GO:0043270 -> GO:0051928 -> GO:0006816 -> CCL8	1.6
+benztropine-mesylate	C0035228	CHRM1 -> GO:0043270 -> GO:0051050 -> GO:0051222 -> TNF	1.6
+benztropine-mesylate	C0035228	HRH1	0
+benztropine-mesylate	C0035228	SLC6A3 -> GO:0090494 -> MAPK15 -> GO:0008284 -> IL4	1.6
+benztropine-mesylate	C0035228	SLC6A3 -> GO:0090494 -> MAPK15 -> GO:0008284 -> PTPN6	1.6
+benztropine-mesylate	C0035228	SLC6A3 -> GO:0090494 -> MAPK15 -> GO:0030336 -> SERPINE1	1.6
+benztropine-mesylate	C0035228	SLC6A3 -> GO:0015844 -> PICK1 -> GO:0050796 -> IL6	1.6
+benztropine-mesylate	C0035228	SLC6A3 -> GO:0015844 -> SLC6A4 -> GO:0009636 -> SLC30A4	1.6
+benztropine-mesylate	C0035228	SLC6A3 -> GO:0015844 -> PICK1 -> GO:0050796 -> TNF	1.6

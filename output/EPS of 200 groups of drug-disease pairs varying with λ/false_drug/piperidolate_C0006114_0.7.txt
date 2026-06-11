@@ -1,0 +1,1 @@
+piperidolate	C0006114	CHRM1 -> SNX1 -> NDUFS1	2

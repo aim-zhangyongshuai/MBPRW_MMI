@@ -1,0 +1,2 @@
+clobetasone-butyrate	C0026769	NR3C1 -> IRF8	1
+clobetasone-butyrate	C0026769	NR3C1 -> TNFRSF1A	1

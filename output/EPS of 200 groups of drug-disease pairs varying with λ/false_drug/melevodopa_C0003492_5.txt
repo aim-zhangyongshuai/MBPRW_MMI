@@ -1,0 +1,7 @@
+melevodopa	C0003492	DDC -> BSG -> HRAS	2
+melevodopa	C0003492	DDC -> AR -> KMT2D	2
+melevodopa	C0003492	DDC -> AR -> PTPN11	2
+melevodopa	C0003492	DDC -> AR -> SMAD4	2
+melevodopa	C0003492	DDC -> BSG -> RPS19	2
+melevodopa	C0003492	DDC -> BSG -> NRAS	2
+melevodopa	C0003492	DDC -> BSG -> KRAS	2

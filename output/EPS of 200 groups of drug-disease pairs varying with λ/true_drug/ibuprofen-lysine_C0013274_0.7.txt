@@ -1,0 +1,3 @@
+ibuprofen-lysine	C0013274	PTGS1 -> PTGIS	1
+ibuprofen-lysine	C0013274	PTGS2 -> PTGIS	1
+ibuprofen-lysine	C0013274	PTGS2 -> EP300	1

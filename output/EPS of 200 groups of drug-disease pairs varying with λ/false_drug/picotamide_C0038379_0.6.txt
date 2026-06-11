@@ -1,0 +1,2 @@
+picotamide	C0038379	TBXA2R -> GNAQ	1
+picotamide	C0038379	TBXA2R -> RAF1	1

@@ -1,0 +1,8 @@
+trepibutone	C0022104	CHRM1 -> ICAM1 -> STAT3 -> IL10	3
+trepibutone	C0022104	CHRM1 -> ICAM1 -> MYC -> TPSAB1	3
+trepibutone	C0022104	CHRM2 -> ELAVL1 -> STAT3 -> IL10	3
+trepibutone	C0022104	CHRM2 -> ELAVL1 -> MYC -> TPSAB1	3
+trepibutone	C0022104	CHRM4 -> B2M -> A2M -> IL10	3
+trepibutone	C0022104	CHRM4 -> TNPO2 -> MYC -> TPSAB1	3
+trepibutone	C0022104	CHRM3 -> PI4KA -> SP1 -> IL10	3
+trepibutone	C0022104	CHRM3 -> PI4KA -> MYC -> TPSAB1	3

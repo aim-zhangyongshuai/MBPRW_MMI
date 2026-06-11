@@ -1,0 +1,9 @@
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> CCL2	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> NFKB1	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> TNFRSF1A	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> CCL7	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> CCL11	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> NFKB2	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> ADA	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> CCL20	1
+prednisolone-sodium-phosphate	C0032285	NR3C1 -> CSF2	1

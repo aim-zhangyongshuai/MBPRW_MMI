@@ -1,0 +1,4 @@
+clobetasone-butyrate	C0026769	NR3C1 -> GO:0000122 -> IRF8	0.8
+clobetasone-butyrate	C0026769	NR3C1 -> GO:0000122 -> CIITA	0.8
+clobetasone-butyrate	C0026769	NR3C1 -> GO:0045944 -> CD40	0.8
+clobetasone-butyrate	C0026769	NR3C1 -> GO:0045944 -> TNFRSF1A	0.8

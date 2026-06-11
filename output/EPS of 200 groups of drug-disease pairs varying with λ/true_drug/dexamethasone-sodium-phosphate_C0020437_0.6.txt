@@ -1,0 +1,2 @@
+dexamethasone-sodium-phosphate	C0020437	NR3C1 -> ELN	1
+dexamethasone-sodium-phosphate	C0020437	NR3C1 -> CDKN1A	1

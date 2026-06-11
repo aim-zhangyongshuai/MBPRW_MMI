@@ -1,0 +1,6 @@
+benztropine-mesylate	C1527304	CHRM1 -> DLG4 -> FTH1 -> TGM5	3
+benztropine-mesylate	C1527304	CHRM1 -> DLG4 -> GRB2 -> CSTA	3
+benztropine-mesylate	C1527304	HRH1 -> UBC -> TGM5	2
+benztropine-mesylate	C1527304	HRH1 -> UBC -> CSTA	2
+benztropine-mesylate	C1527304	SLC6A3 -> UBC -> TGM5	2
+benztropine-mesylate	C1527304	SLC6A3 -> UBC -> CSTA	2

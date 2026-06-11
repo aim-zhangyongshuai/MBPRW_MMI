@@ -1,0 +1,14 @@
+benztropine-mesylate	C0035228	CHRM1 -> GNB1 -> HRH1	2
+benztropine-mesylate	C0035228	CHRM1 -> ICAM1 -> HSPA5	2
+benztropine-mesylate	C0035228	HRH1	0
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> SLC39A4	2
+benztropine-mesylate	C0035228	SLC6A3 -> IL13RA1 -> IL4	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> SLC39A1	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> PTPN6	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> SERPINE1	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> HRH1	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> TLR4	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> SLC39A14	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> UPP1	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> HSPA5	2
+benztropine-mesylate	C0035228	SLC6A3 -> UBC -> TNF	2

@@ -1,0 +1,25 @@
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> WFS1 -> GO:0043066 -> CRYAB	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> WFS1 -> GO:0000122 -> SOX9	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051050 -> GO:0006810 -> GO:0042908 -> ABCA3	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> CCR1 -> GO:0010629 -> MECP2	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0006811 -> AQP11 -> GO:0008284 -> LIFR	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> CCL5 -> GO:0045744 -> RPGRIP1L	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> CCL3 -> GO:0007010 -> DST	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> WFS1 -> GO:0043066 -> HSPD1	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> WFS1 -> GO:0055074 -> ALPL	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> WFS1 -> GO:0000122 -> FBP1	1.5
+benztropine-mesylate	C0003578	CHRM1 -> GO:0043270 -> GO:0051928 -> CCL3 -> GO:0050850 -> PRNP	1.5
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0043066 -> CRYAB	1.6
+benztropine-mesylate	C0003578	HRH1 -> PRKACA -> GO:0018105 -> PCK1	1.6
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0010628 -> SOX9	1.6
+benztropine-mesylate	C0003578	HRH1 -> STAT3 -> GO:0010629 -> MECP2	1.6
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0008284 -> LIFR	1.6
+benztropine-mesylate	C0003578	HRH1 -> PRKCA -> GO:0043536 -> ATP5F1A	1.6
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0032733 -> HSPD1	1.6
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0043065 -> CTSD	1.6
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0045893 -> ZNF423	1.6
+benztropine-mesylate	C0003578	HRH1 -> CNBP -> GO:0000122 -> FBP1	1.6
+benztropine-mesylate	C0003578	HRH1 -> IL6 -> GO:0050731 -> PRNP	1.6
+benztropine-mesylate	C0003578	SLC6A3 -> GO:0090494 -> MAPK15 -> GO:0008284 -> SOX9	1.2
+benztropine-mesylate	C0003578	SLC6A3 -> GO:0015844 -> SLC22A3 -> GO:0042908 -> ABCA3	1.2
+benztropine-mesylate	C0003578	SLC6A3 -> GO:0090494 -> MAPK15 -> GO:0008284 -> LIFR	1.2

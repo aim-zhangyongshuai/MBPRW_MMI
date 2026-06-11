@@ -1,0 +1,5 @@
+hydrocortisone-phosphate	C0009319	NR3C1 -> SRC	1
+hydrocortisone-phosphate	C0009319	NR3C1 -> RELA	1
+hydrocortisone-phosphate	C0009319	NOS2	0
+hydrocortisone-phosphate	C0009319	ANXA1 -> SRC	1
+hydrocortisone-phosphate	C0009319	ANXA1 -> RELA	1

@@ -1,0 +1,4 @@
+trepibutone	C0000809	CHRM1 -> ICAM1 -> PABPC1 -> SYCP3	3
+trepibutone	C0000809	CHRM2 -> ELAVL1 -> TNPO2 -> SYCP3	3
+trepibutone	C0000809	CHRM4 -> TNPO2 -> SYCP3	2
+trepibutone	C0000809	CHRM3 -> PI4KA -> SMC3 -> SYCP3	3
